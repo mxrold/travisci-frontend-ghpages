@@ -10,6 +10,7 @@ git:
 script: 
   - yarn build
 notifications:
+  slack: mxrold:R2CZFMsqcm84SgP7k1wMvkNP
   email:
     recipients:
       - martinroldan889@gmail.com
