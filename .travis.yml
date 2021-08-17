@@ -10,7 +10,8 @@ git:
 script: 
   - yarn build
 notifications:
-  slack: mxrold:R2CZFMsqcm84SgP7k1wMvkNP
+  slack: 
+    secure: "JdfcizGBq8zqG/QIrS9zglGAU0JDI3jEpSrMESZiowh1c0HnllfVGWJKRoQbphehI32DvV6abCAYCCKdQWAIB/x8Gtwdz5WqswPPN/phoMXyKlT5g+eXbApi0K/CE3dBLojbVdYEwmgGn5+0W8rsAAkWRwJy4qxthLAKmyiKQuZbEHgqvbQsV1yZtshmWD2JsNkmzAdc/vPdwoQUAd2fs/d/gKEGfoFj4fgqASvOLy8oVtELpeUkGT3LSLjC04UEBF2pN2v71aTbUDOMdDU/Lj59Qsb6NOv9VaxFDJWmZDQUP4YYlDZqSY+XEDOfFfowFpx7bW7Ld6wxRM9jRxarEv2TGLaQYK58VLxgSD1IfEmbntxuhTjUYzSXC8xe7JZz0luiTtrOByC1cF6+NL+Do15XHLloJEEyGb1tASeeP5EO9LtEBpUhDcW3LegsngEHHPDCU1NSb/+4dhfQAopNMfJG8MAPYNsJu/yKcec+Fn9+/ec4f4pNez8gMT3hUrig3V99LnpjVEmQZVNZWlhKIl53fQ1yVIXTkqLXZYpjNwfffFS1BI2m6NbuN0DWl4hkcifM0MdB1cLdbJbhPhXBxogRyHRKia50ZDcE0nMKTiJNDIxYqH3c/Eb4Q8/Xp0vSnRXvaOCIIZo3MMUDGTDMNEDySv1Ro2w5MVpBPdsfIXA="
   email:
     recipients:
       - martinroldan889@gmail.com
